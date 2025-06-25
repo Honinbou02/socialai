@@ -1,0 +1,22 @@
+{
+    "name": "spetie/storage",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Spetie\\Storage\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Spetie\\Storage\\CompressServiceProvider"
+            ],
+            "aliases": {
+              
+            }
+        }
+    }
+}
