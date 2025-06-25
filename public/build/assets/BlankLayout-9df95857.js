@@ -1,0 +1,1 @@
+import{_ as o}from"./SeoMeta-eff2b69a.js";import r from"./ToastrContainer-6e6ac088.js";import{o as t,c as s,a,E as n,F as _}from"./app-eeb1ee89.js";const i={__name:"BlankLayout",setup(m){return(e,c)=>(t(),s(_,null,[a(o),a(r),n(e.$slots,"default")],64))}};export{i as _};
